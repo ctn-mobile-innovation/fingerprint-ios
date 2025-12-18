@@ -1,0 +1,8 @@
+framework module "fingerprintjs" {
+    umbrella header "fingerprintjs.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
