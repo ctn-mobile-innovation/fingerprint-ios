@@ -6,9 +6,9 @@
 #import <Foundation/NSString.h>
 #import <Foundation/NSValue.h>
 
-@class FingerprintjsAppContext, FingerprintjsAppTempInstaller, FingerprintjsAppTempInstallerAMAZON_PLAY_STORE, FingerprintjsAppTempInstallerCUSTOM_APP_STORE, FingerprintjsAppTempInstallerGOOGLE_PLAY_STORE, FingerprintjsAppTempInstallerINDUS_PLAY_STORE, FingerprintjsAppTempInstallerOPPO_PLAY_STORE, FingerprintjsAppTempInstallerSAMSUNG_PLAY_STORE, FingerprintjsBlocklists, FingerprintjsBlocklistsCompanion, FingerprintjsBrowserDetails, FingerprintjsBrowserDetailsCompanion, FingerprintjsClientManager, FingerprintjsConfidenceParams, FingerprintjsConfidenceParamsCompanion, FingerprintjsData, FingerprintjsDataCompanion, FingerprintjsFileIntegrityCheck, FingerprintjsFileIntegrityCheckBundleID, FingerprintjsFileIntegrityCheckMobileProvision, FingerprintjsFileManagerUtilityCompanion, FingerprintjsFingerprintConst, FingerprintjsFingerprintRequestModel, FingerprintjsFingerprintRequestModelCompanion, FingerprintjsFingerprintResponseModel, FingerprintjsFingerprintResponseModelCompanion, FingerprintjsHardwareInfoHarvester, FingerprintjsIpData, FingerprintjsIpDataCompanion, FingerprintjsJailbreakHelper, FingerprintjsKotlinAbstractCoroutineContextElement, FingerprintjsKotlinAbstractCoroutineContextKey<B, E>, FingerprintjsKotlinArray<T>, FingerprintjsKotlinByteArray, FingerprintjsKotlinByteIterator, FingerprintjsKotlinCancellationException, FingerprintjsKotlinEnum<E>, FingerprintjsKotlinEnumCompanion, FingerprintjsKotlinException, FingerprintjsKotlinIllegalStateException, FingerprintjsKotlinKTypeProjection, FingerprintjsKotlinKTypeProjectionCompanion, FingerprintjsKotlinKVariance, FingerprintjsKotlinNothing, FingerprintjsKotlinPair<__covariant A, __covariant B>, FingerprintjsKotlinRuntimeException, FingerprintjsKotlinThrowable, FingerprintjsKotlinUnit, FingerprintjsKotlinx_coroutines_coreCoroutineDispatcher, FingerprintjsKotlinx_coroutines_coreCoroutineDispatcherKey, FingerprintjsKotlinx_io_coreBuffer, FingerprintjsKotlinx_serialization_coreSerialKind, FingerprintjsKotlinx_serialization_coreSerializersModule, FingerprintjsKtor_client_coreHttpClient, FingerprintjsKtor_client_coreHttpClientCall, FingerprintjsKtor_client_coreHttpClientCallCompanion, FingerprintjsKtor_client_coreHttpClientConfig<T>, FingerprintjsKtor_client_coreHttpClientEngineConfig, FingerprintjsKtor_client_coreHttpReceivePipeline, FingerprintjsKtor_client_coreHttpReceivePipelinePhases, FingerprintjsKtor_client_coreHttpRequestBuilder, FingerprintjsKtor_client_coreHttpRequestBuilderCompanion, FingerprintjsKtor_client_coreHttpRequestData, FingerprintjsKtor_client_coreHttpRequestPipeline, FingerprintjsKtor_client_coreHttpRequestPipelinePhases, FingerprintjsKtor_client_coreHttpResponse, FingerprintjsKtor_client_coreHttpResponseContainer, FingerprintjsKtor_client_coreHttpResponseData, FingerprintjsKtor_client_coreHttpResponsePipeline, FingerprintjsKtor_client_coreHttpResponsePipelinePhases, FingerprintjsKtor_client_coreHttpSendPipeline, FingerprintjsKtor_client_coreHttpSendPipelinePhases, FingerprintjsKtor_client_coreProxyConfig, FingerprintjsKtor_eventsEventDefinition<T>, FingerprintjsKtor_eventsEvents, FingerprintjsKtor_httpContentType, FingerprintjsKtor_httpContentTypeCompanion, FingerprintjsKtor_httpHeaderValueParam, FingerprintjsKtor_httpHeaderValueWithParameters, FingerprintjsKtor_httpHeaderValueWithParametersCompanion, FingerprintjsKtor_httpHeadersBuilder, FingerprintjsKtor_httpHttpMethod, FingerprintjsKtor_httpHttpMethodCompanion, FingerprintjsKtor_httpHttpProtocolVersion, FingerprintjsKtor_httpHttpProtocolVersionCompanion, FingerprintjsKtor_httpHttpStatusCode, FingerprintjsKtor_httpHttpStatusCodeCompanion, FingerprintjsKtor_httpOutgoingContent, FingerprintjsKtor_httpURLBuilder, FingerprintjsKtor_httpURLBuilderCompanion, FingerprintjsKtor_httpURLProtocol, FingerprintjsKtor_httpURLProtocolCompanion, FingerprintjsKtor_httpUrl, FingerprintjsKtor_httpUrlCompanion, FingerprintjsKtor_utilsAttributeKey<T>, FingerprintjsKtor_utilsGMTDate, FingerprintjsKtor_utilsGMTDateCompanion, FingerprintjsKtor_utilsMonth, FingerprintjsKtor_utilsMonthCompanion, FingerprintjsKtor_utilsPipeline<TSubject, TContext>, FingerprintjsKtor_utilsPipelinePhase, FingerprintjsKtor_utilsStringValuesBuilderImpl, FingerprintjsKtor_utilsTypeInfo, FingerprintjsKtor_utilsWeekDay, FingerprintjsKtor_utilsWeekDayCompanion, FingerprintjsOtherInformation, FingerprintjsOtherInformationCompanion, FingerprintjsScores, FingerprintjsScoresCompanion, FingerprintjsSecurityInfoHarvester, FingerprintjsTagDetails, FingerprintjsTagDetailsCompanion, FingerprintjsThreat, FingerprintjsThreatCompanion, FingerprintjsUserParameters, NSData;
+@class FingerprintjsAppContext, FingerprintjsAppTempInstaller, FingerprintjsAppTempInstallerAMAZON_PLAY_STORE, FingerprintjsAppTempInstallerCUSTOM_APP_STORE, FingerprintjsAppTempInstallerGOOGLE_PLAY_STORE, FingerprintjsAppTempInstallerINDUS_PLAY_STORE, FingerprintjsAppTempInstallerOPPO_PLAY_STORE, FingerprintjsAppTempInstallerSAMSUNG_PLAY_STORE, FingerprintjsBlocklists, FingerprintjsBlocklistsCompanion, FingerprintjsBrowserDetails, FingerprintjsBrowserDetailsCompanion, FingerprintjsClientManager, FingerprintjsConfidenceParams, FingerprintjsConfidenceParamsCompanion, FingerprintjsData, FingerprintjsDataCompanion, FingerprintjsFileIntegrityCheck, FingerprintjsFileIntegrityCheckBundleID, FingerprintjsFileIntegrityCheckMobileProvision, FingerprintjsFileManagerUtilityCompanion, FingerprintjsFingerprintConst, FingerprintjsFingerprintPayloadResponseModel, FingerprintjsFingerprintPayloadResponseModelCompanion, FingerprintjsFingerprintRequestModel, FingerprintjsFingerprintRequestModelCompanion, FingerprintjsFingerprintRequestPayloadModel, FingerprintjsFingerprintRequestPayloadModelCompanion, FingerprintjsFingerprintResponseModel, FingerprintjsFingerprintResponseModelCompanion, FingerprintjsFingerprintScope, FingerprintjsHardwareInfoHarvester, FingerprintjsIpData, FingerprintjsIpDataCompanion, FingerprintjsJailbreakHelper, FingerprintjsJsonUtil, FingerprintjsKotlinAbstractCoroutineContextElement, FingerprintjsKotlinAbstractCoroutineContextKey<B, E>, FingerprintjsKotlinArray<T>, FingerprintjsKotlinByteArray, FingerprintjsKotlinByteIterator, FingerprintjsKotlinCancellationException, FingerprintjsKotlinEnum<E>, FingerprintjsKotlinEnumCompanion, FingerprintjsKotlinException, FingerprintjsKotlinIllegalStateException, FingerprintjsKotlinKTypeProjection, FingerprintjsKotlinKTypeProjectionCompanion, FingerprintjsKotlinKVariance, FingerprintjsKotlinNothing, FingerprintjsKotlinPair<__covariant A, __covariant B>, FingerprintjsKotlinRuntimeException, FingerprintjsKotlinThrowable, FingerprintjsKotlinUnit, FingerprintjsKotlinx_coroutines_coreCoroutineDispatcher, FingerprintjsKotlinx_coroutines_coreCoroutineDispatcherKey, FingerprintjsKotlinx_io_coreBuffer, FingerprintjsKotlinx_serialization_coreSerialKind, FingerprintjsKotlinx_serialization_coreSerializersModule, FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode, FingerprintjsKotlinx_serialization_jsonJson, FingerprintjsKotlinx_serialization_jsonJsonConfiguration, FingerprintjsKotlinx_serialization_jsonJsonDefault, FingerprintjsKotlinx_serialization_jsonJsonElement, FingerprintjsKotlinx_serialization_jsonJsonElementCompanion, FingerprintjsKtor_client_coreHttpClient, FingerprintjsKtor_client_coreHttpClientCall, FingerprintjsKtor_client_coreHttpClientCallCompanion, FingerprintjsKtor_client_coreHttpClientConfig<T>, FingerprintjsKtor_client_coreHttpClientEngineConfig, FingerprintjsKtor_client_coreHttpReceivePipeline, FingerprintjsKtor_client_coreHttpReceivePipelinePhases, FingerprintjsKtor_client_coreHttpRequestBuilder, FingerprintjsKtor_client_coreHttpRequestBuilderCompanion, FingerprintjsKtor_client_coreHttpRequestData, FingerprintjsKtor_client_coreHttpRequestPipeline, FingerprintjsKtor_client_coreHttpRequestPipelinePhases, FingerprintjsKtor_client_coreHttpResponse, FingerprintjsKtor_client_coreHttpResponseContainer, FingerprintjsKtor_client_coreHttpResponseData, FingerprintjsKtor_client_coreHttpResponsePipeline, FingerprintjsKtor_client_coreHttpResponsePipelinePhases, FingerprintjsKtor_client_coreHttpSendPipeline, FingerprintjsKtor_client_coreHttpSendPipelinePhases, FingerprintjsKtor_client_coreProxyConfig, FingerprintjsKtor_eventsEventDefinition<T>, FingerprintjsKtor_eventsEvents, FingerprintjsKtor_httpContentType, FingerprintjsKtor_httpContentTypeCompanion, FingerprintjsKtor_httpHeaderValueParam, FingerprintjsKtor_httpHeaderValueWithParameters, FingerprintjsKtor_httpHeaderValueWithParametersCompanion, FingerprintjsKtor_httpHeadersBuilder, FingerprintjsKtor_httpHttpMethod, FingerprintjsKtor_httpHttpMethodCompanion, FingerprintjsKtor_httpHttpProtocolVersion, FingerprintjsKtor_httpHttpProtocolVersionCompanion, FingerprintjsKtor_httpHttpStatusCode, FingerprintjsKtor_httpHttpStatusCodeCompanion, FingerprintjsKtor_httpOutgoingContent, FingerprintjsKtor_httpURLBuilder, FingerprintjsKtor_httpURLBuilderCompanion, FingerprintjsKtor_httpURLProtocol, FingerprintjsKtor_httpURLProtocolCompanion, FingerprintjsKtor_httpUrl, FingerprintjsKtor_httpUrlCompanion, FingerprintjsKtor_utilsAttributeKey<T>, FingerprintjsKtor_utilsGMTDate, FingerprintjsKtor_utilsGMTDateCompanion, FingerprintjsKtor_utilsMonth, FingerprintjsKtor_utilsMonthCompanion, FingerprintjsKtor_utilsPipeline<TSubject, TContext>, FingerprintjsKtor_utilsPipelinePhase, FingerprintjsKtor_utilsStringValuesBuilderImpl, FingerprintjsKtor_utilsTypeInfo, FingerprintjsKtor_utilsWeekDay, FingerprintjsKtor_utilsWeekDayCompanion, FingerprintjsOtherInformation, FingerprintjsOtherInformationCompanion, FingerprintjsScores, FingerprintjsScoresCompanion, FingerprintjsSecurityInfoHarvester, FingerprintjsTagDetails, FingerprintjsTagDetailsCompanion, FingerprintjsThreat, FingerprintjsThreatCompanion, FingerprintjsUserParameters, NSData;
 
-@protocol FingerprintjsExplainable, FingerprintjsKotlinAnnotation, FingerprintjsKotlinAutoCloseable, FingerprintjsKotlinComparable, FingerprintjsKotlinContinuation, FingerprintjsKotlinContinuationInterceptor, FingerprintjsKotlinCoroutineContext, FingerprintjsKotlinCoroutineContextElement, FingerprintjsKotlinCoroutineContextKey, FingerprintjsKotlinFunction, FingerprintjsKotlinIterator, FingerprintjsKotlinKAnnotatedElement, FingerprintjsKotlinKClass, FingerprintjsKotlinKClassifier, FingerprintjsKotlinKDeclarationContainer, FingerprintjsKotlinKType, FingerprintjsKotlinMapEntry, FingerprintjsKotlinSequence, FingerprintjsKotlinSuspendFunction2, FingerprintjsKotlinx_coroutines_coreChildHandle, FingerprintjsKotlinx_coroutines_coreChildJob, FingerprintjsKotlinx_coroutines_coreCoroutineScope, FingerprintjsKotlinx_coroutines_coreDisposableHandle, FingerprintjsKotlinx_coroutines_coreJob, FingerprintjsKotlinx_coroutines_coreParentJob, FingerprintjsKotlinx_coroutines_coreRunnable, FingerprintjsKotlinx_coroutines_coreSelectClause, FingerprintjsKotlinx_coroutines_coreSelectClause0, FingerprintjsKotlinx_coroutines_coreSelectInstance, FingerprintjsKotlinx_io_coreRawSink, FingerprintjsKotlinx_io_coreRawSource, FingerprintjsKotlinx_io_coreSink, FingerprintjsKotlinx_io_coreSource, FingerprintjsKotlinx_serialization_coreCompositeDecoder, FingerprintjsKotlinx_serialization_coreCompositeEncoder, FingerprintjsKotlinx_serialization_coreDecoder, FingerprintjsKotlinx_serialization_coreDeserializationStrategy, FingerprintjsKotlinx_serialization_coreEncoder, FingerprintjsKotlinx_serialization_coreKSerializer, FingerprintjsKotlinx_serialization_coreSerialDescriptor, FingerprintjsKotlinx_serialization_coreSerializationStrategy, FingerprintjsKotlinx_serialization_coreSerializersModuleCollector, FingerprintjsKtor_client_coreHttpClientEngine, FingerprintjsKtor_client_coreHttpClientEngineCapability, FingerprintjsKtor_client_coreHttpClientPlugin, FingerprintjsKtor_client_coreHttpRequest, FingerprintjsKtor_httpHeaders, FingerprintjsKtor_httpHttpMessage, FingerprintjsKtor_httpHttpMessageBuilder, FingerprintjsKtor_httpParameters, FingerprintjsKtor_httpParametersBuilder, FingerprintjsKtor_ioByteReadChannel, FingerprintjsKtor_ioCloseable, FingerprintjsKtor_utilsAttributes, FingerprintjsKtor_utilsStringValues, FingerprintjsKtor_utilsStringValuesBuilder;
+@protocol FingerprintjsExplainable, FingerprintjsKotlinAnnotation, FingerprintjsKotlinAutoCloseable, FingerprintjsKotlinComparable, FingerprintjsKotlinContinuation, FingerprintjsKotlinContinuationInterceptor, FingerprintjsKotlinCoroutineContext, FingerprintjsKotlinCoroutineContextElement, FingerprintjsKotlinCoroutineContextKey, FingerprintjsKotlinFunction, FingerprintjsKotlinIterator, FingerprintjsKotlinKAnnotatedElement, FingerprintjsKotlinKClass, FingerprintjsKotlinKClassifier, FingerprintjsKotlinKDeclarationContainer, FingerprintjsKotlinKType, FingerprintjsKotlinMapEntry, FingerprintjsKotlinSequence, FingerprintjsKotlinSuspendFunction2, FingerprintjsKotlinx_coroutines_coreChildHandle, FingerprintjsKotlinx_coroutines_coreChildJob, FingerprintjsKotlinx_coroutines_coreCoroutineScope, FingerprintjsKotlinx_coroutines_coreDisposableHandle, FingerprintjsKotlinx_coroutines_coreJob, FingerprintjsKotlinx_coroutines_coreParentJob, FingerprintjsKotlinx_coroutines_coreRunnable, FingerprintjsKotlinx_coroutines_coreSelectClause, FingerprintjsKotlinx_coroutines_coreSelectClause0, FingerprintjsKotlinx_coroutines_coreSelectInstance, FingerprintjsKotlinx_io_coreRawSink, FingerprintjsKotlinx_io_coreRawSource, FingerprintjsKotlinx_io_coreSink, FingerprintjsKotlinx_io_coreSource, FingerprintjsKotlinx_serialization_coreCompositeDecoder, FingerprintjsKotlinx_serialization_coreCompositeEncoder, FingerprintjsKotlinx_serialization_coreDecoder, FingerprintjsKotlinx_serialization_coreDeserializationStrategy, FingerprintjsKotlinx_serialization_coreEncoder, FingerprintjsKotlinx_serialization_coreKSerializer, FingerprintjsKotlinx_serialization_coreSerialDescriptor, FingerprintjsKotlinx_serialization_coreSerialFormat, FingerprintjsKotlinx_serialization_coreSerializationStrategy, FingerprintjsKotlinx_serialization_coreSerializersModuleCollector, FingerprintjsKotlinx_serialization_coreStringFormat, FingerprintjsKotlinx_serialization_jsonJsonNamingStrategy, FingerprintjsKtor_client_coreHttpClientEngine, FingerprintjsKtor_client_coreHttpClientEngineCapability, FingerprintjsKtor_client_coreHttpClientPlugin, FingerprintjsKtor_client_coreHttpRequest, FingerprintjsKtor_httpHeaders, FingerprintjsKtor_httpHttpMessage, FingerprintjsKtor_httpHttpMessageBuilder, FingerprintjsKtor_httpParameters, FingerprintjsKtor_httpParametersBuilder, FingerprintjsKtor_ioByteReadChannel, FingerprintjsKtor_ioCloseable, FingerprintjsKtor_utilsAttributes, FingerprintjsKtor_utilsStringValues, FingerprintjsKtor_utilsStringValuesBuilder;
 
 NS_ASSUME_NONNULL_BEGIN
 #pragma clang diagnostic push
@@ -154,8 +154,31 @@ __attribute__((swift_name("FingerprintConst")))
 @property NSString *API_KEY __attribute__((swift_name("API_KEY")));
 @property NSString *BASE_URL_FINGERPRINT __attribute__((swift_name("BASE_URL_FINGERPRINT")));
 @property (readonly) NSString *BASE_URL_IP_ADDRESS __attribute__((swift_name("BASE_URL_IP_ADDRESS")));
+@property (readonly) NSString *ENCRYPTION_SECRATE_IV __attribute__((swift_name("ENCRYPTION_SECRATE_IV")));
+@property (readonly) NSString *ENCRYPTION_SECRATE_KEY __attribute__((swift_name("ENCRYPTION_SECRATE_KEY")));
 @property (readonly) NSString *SDK_VERSION __attribute__((swift_name("SDK_VERSION")));
 @property NSArray<FingerprintjsAppTempInstaller *> * _Nullable allowedPlayStoreIdentifier __attribute__((swift_name("allowedPlayStoreIdentifier")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("FingerprintScope")))
+@interface FingerprintjsFingerprintScope : FingerprintjsBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)fingerprintScope __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsFingerprintScope *shared __attribute__((swift_name("shared")));
+@property (readonly) id<FingerprintjsKotlinx_coroutines_coreCoroutineScope> scope __attribute__((swift_name("scope")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("JsonUtil")))
+@interface FingerprintjsJsonUtil : FingerprintjsBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)jsonUtil __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsJsonUtil *shared __attribute__((swift_name("shared")));
+- (id _Nullable)fromJsonJsonString:(NSString *)jsonString __attribute__((swift_name("fromJson(jsonString:)")));
+@property (readonly) FingerprintjsKotlinx_serialization_jsonJson *json __attribute__((swift_name("json")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -165,6 +188,14 @@ __attribute__((swift_name("AppContext")))
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)appContext __attribute__((swift_name("init()")));
 @property (class, readonly, getter=shared) FingerprintjsAppContext *shared __attribute__((swift_name("shared")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("AesHelper")))
+@interface FingerprintjsAesHelper : FingerprintjsBase
+- (instancetype)initWithKey:(NSString *)key iv:(NSString *)iv __attribute__((swift_name("init(key:iv:)"))) __attribute__((objc_designated_initializer));
+- (NSString * _Nullable)decryptEncryptedData:(FingerprintjsKotlinByteArray *)encryptedData __attribute__((swift_name("decrypt(encryptedData:)")));
+- (FingerprintjsKotlinByteArray * _Nullable)encryptPlainText:(NSString *)plainText __attribute__((swift_name("encrypt(plainText:)")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -364,9 +395,9 @@ __attribute__((swift_name("ConfidenceParams.Companion")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Data")))
 @interface FingerprintjsData : FingerprintjsBase
-- (instancetype)initWithIpData:(FingerprintjsIpData * _Nullable)ipData requestId:(NSString * _Nullable)requestId visitorId:(NSString * _Nullable)visitorId firstSeen:(NSString * _Nullable)firstSeen lastSeen:(NSString * _Nullable)lastSeen confidenceScore:(double)confidenceScore __attribute__((swift_name("init(ipData:requestId:visitorId:firstSeen:lastSeen:confidenceScore:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithIpData:(FingerprintjsIpData * _Nullable)ipData requestId:(NSString * _Nullable)requestId visitorId:(NSString * _Nullable)visitorId firstSeen:(NSString * _Nullable)firstSeen lastSeen:(NSString * _Nullable)lastSeen confidenceScore:(FingerprintjsDouble * _Nullable)confidenceScore __attribute__((swift_name("init(ipData:requestId:visitorId:firstSeen:lastSeen:confidenceScore:)"))) __attribute__((objc_designated_initializer));
 @property (class, readonly, getter=companion) FingerprintjsDataCompanion *companion __attribute__((swift_name("companion")));
-- (FingerprintjsData *)doCopyIpData:(FingerprintjsIpData * _Nullable)ipData requestId:(NSString * _Nullable)requestId visitorId:(NSString * _Nullable)visitorId firstSeen:(NSString * _Nullable)firstSeen lastSeen:(NSString * _Nullable)lastSeen confidenceScore:(double)confidenceScore __attribute__((swift_name("doCopy(ipData:requestId:visitorId:firstSeen:lastSeen:confidenceScore:)")));
+- (FingerprintjsData *)doCopyIpData:(FingerprintjsIpData * _Nullable)ipData requestId:(NSString * _Nullable)requestId visitorId:(NSString * _Nullable)visitorId firstSeen:(NSString * _Nullable)firstSeen lastSeen:(NSString * _Nullable)lastSeen confidenceScore:(FingerprintjsDouble * _Nullable)confidenceScore __attribute__((swift_name("doCopy(ipData:requestId:visitorId:firstSeen:lastSeen:confidenceScore:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
@@ -375,7 +406,7 @@ __attribute__((swift_name("Data")))
  * @note annotations
  *   kotlinx.serialization.SerialName(value="confidenceScore")
 */
-@property (readonly) double confidenceScore __attribute__((swift_name("confidenceScore")));
+@property (readonly) FingerprintjsDouble * _Nullable confidenceScore __attribute__((swift_name("confidenceScore")));
 
 /**
  * @note annotations
@@ -415,6 +446,38 @@ __attribute__((swift_name("Data.Companion")))
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)companion __attribute__((swift_name("init()")));
 @property (class, readonly, getter=shared) FingerprintjsDataCompanion *shared __attribute__((swift_name("shared")));
+- (id<FingerprintjsKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
+@end
+
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.Serializable
+*/
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("FingerprintPayloadResponseModel")))
+@interface FingerprintjsFingerprintPayloadResponseModel : FingerprintjsBase
+- (instancetype)initWithResponse:(NSString * _Nullable)response __attribute__((swift_name("init(response:)"))) __attribute__((objc_designated_initializer));
+@property (class, readonly, getter=companion) FingerprintjsFingerprintPayloadResponseModelCompanion *companion __attribute__((swift_name("companion")));
+- (FingerprintjsFingerprintPayloadResponseModel *)doCopyResponse:(NSString * _Nullable)response __attribute__((swift_name("doCopy(response:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.SerialName(value="response")
+*/
+@property (readonly) NSString * _Nullable response __attribute__((swift_name("response")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("FingerprintPayloadResponseModel.Companion")))
+@interface FingerprintjsFingerprintPayloadResponseModelCompanion : FingerprintjsBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsFingerprintPayloadResponseModelCompanion *shared __attribute__((swift_name("shared")));
 - (id<FingerprintjsKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
 @end
 
@@ -468,11 +531,43 @@ __attribute__((swift_name("FingerprintRequestModel.Companion")))
  *   kotlinx.serialization.Serializable
 */
 __attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("FingerprintRequestPayloadModel")))
+@interface FingerprintjsFingerprintRequestPayloadModel : FingerprintjsBase
+- (instancetype)initWithPayload:(NSString *)payload __attribute__((swift_name("init(payload:)"))) __attribute__((objc_designated_initializer));
+@property (class, readonly, getter=companion) FingerprintjsFingerprintRequestPayloadModelCompanion *companion __attribute__((swift_name("companion")));
+- (FingerprintjsFingerprintRequestPayloadModel *)doCopyPayload:(NSString *)payload __attribute__((swift_name("doCopy(payload:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.SerialName(value="payload")
+*/
+@property (readonly) NSString *payload __attribute__((swift_name("payload")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("FingerprintRequestPayloadModel.Companion")))
+@interface FingerprintjsFingerprintRequestPayloadModelCompanion : FingerprintjsBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsFingerprintRequestPayloadModelCompanion *shared __attribute__((swift_name("shared")));
+- (id<FingerprintjsKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
+@end
+
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.Serializable
+*/
+__attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("FingerprintResponseModel")))
 @interface FingerprintjsFingerprintResponseModel : FingerprintjsBase
-- (instancetype)initWithData:(FingerprintjsData * _Nullable)data message:(NSString * _Nullable)message status:(FingerprintjsInt * _Nullable)status request:(FingerprintjsFingerprintRequestModel * _Nullable)request __attribute__((swift_name("init(data:message:status:request:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithData:(FingerprintjsData * _Nullable)data message:(NSString * _Nullable)message status:(FingerprintjsInt * _Nullable)status __attribute__((swift_name("init(data:message:status:)"))) __attribute__((objc_designated_initializer));
 @property (class, readonly, getter=companion) FingerprintjsFingerprintResponseModelCompanion *companion __attribute__((swift_name("companion")));
-- (FingerprintjsFingerprintResponseModel *)doCopyData:(FingerprintjsData * _Nullable)data message:(NSString * _Nullable)message status:(FingerprintjsInt * _Nullable)status request:(FingerprintjsFingerprintRequestModel * _Nullable)request __attribute__((swift_name("doCopy(data:message:status:request:)")));
+- (FingerprintjsFingerprintResponseModel *)doCopyData:(FingerprintjsData * _Nullable)data message:(NSString * _Nullable)message status:(FingerprintjsInt * _Nullable)status __attribute__((swift_name("doCopy(data:message:status:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
@@ -488,12 +583,6 @@ __attribute__((swift_name("FingerprintResponseModel")))
  *   kotlinx.serialization.SerialName(value="message")
 */
 @property (readonly) NSString * _Nullable message __attribute__((swift_name("message")));
-
-/**
- * @note annotations
- *   kotlinx.serialization.SerialName(value="request")
-*/
-@property FingerprintjsFingerprintRequestModel * _Nullable request __attribute__((swift_name("request")));
 
 /**
  * @note annotations
@@ -1133,16 +1222,36 @@ __attribute__((swift_name("FingerJsConfigKt")))
 + (void)fingerprintConfigurationApiBaseUrl:(NSString *)apiBaseUrl apiKey:(NSString *)apiKey region:(NSString *)region onSuccess:(void (^)(FingerprintjsFingerprintResponseModel *))onSuccess onError:(void (^)(NSString *))onError __attribute__((swift_name("fingerprintConfiguration(apiBaseUrl:apiKey:region:onSuccess:onError:)")));
 @end
 
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("KotlinArray")))
-@interface FingerprintjsKotlinArray<T> : FingerprintjsBase
-+ (instancetype)arrayWithSize:(int32_t)size init:(T _Nullable (^)(FingerprintjsInt *))init __attribute__((swift_name("init(size:init:)")));
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-- (T _Nullable)getIndex:(int32_t)index __attribute__((swift_name("get(index:)")));
-- (id<FingerprintjsKotlinIterator>)iterator __attribute__((swift_name("iterator()")));
-- (void)setIndex:(int32_t)index value:(T _Nullable)value __attribute__((swift_name("set(index:value:)")));
-@property (readonly) int32_t size __attribute__((swift_name("size")));
+__attribute__((swift_name("Kotlinx_coroutines_coreCoroutineScope")))
+@protocol FingerprintjsKotlinx_coroutines_coreCoroutineScope
+@required
+@property (readonly) id<FingerprintjsKotlinCoroutineContext> coroutineContext __attribute__((swift_name("coroutineContext")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_coreSerialFormat")))
+@protocol FingerprintjsKotlinx_serialization_coreSerialFormat
+@required
+@property (readonly) FingerprintjsKotlinx_serialization_coreSerializersModule *serializersModule __attribute__((swift_name("serializersModule")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_coreStringFormat")))
+@protocol FingerprintjsKotlinx_serialization_coreStringFormat <FingerprintjsKotlinx_serialization_coreSerialFormat>
+@required
+- (id _Nullable)decodeFromStringDeserializer:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy>)deserializer string:(NSString *)string __attribute__((swift_name("decodeFromString(deserializer:string:)")));
+- (NSString *)encodeToStringSerializer:(id<FingerprintjsKotlinx_serialization_coreSerializationStrategy>)serializer value:(id _Nullable)value __attribute__((swift_name("encodeToString(serializer:value:)")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_jsonJson")))
+@interface FingerprintjsKotlinx_serialization_jsonJson : FingerprintjsBase <FingerprintjsKotlinx_serialization_coreStringFormat>
+@property (class, readonly, getter=companion) FingerprintjsKotlinx_serialization_jsonJsonDefault *companion __attribute__((swift_name("companion")));
+- (id _Nullable)decodeFromJsonElementDeserializer:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy>)deserializer element:(FingerprintjsKotlinx_serialization_jsonJsonElement *)element __attribute__((swift_name("decodeFromJsonElement(deserializer:element:)")));
+- (id _Nullable)decodeFromStringString:(NSString *)string __attribute__((swift_name("decodeFromString(string:)")));
+- (id _Nullable)decodeFromStringDeserializer:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy>)deserializer string:(NSString *)string __attribute__((swift_name("decodeFromString(deserializer:string:)")));
+- (FingerprintjsKotlinx_serialization_jsonJsonElement *)encodeToJsonElementSerializer:(id<FingerprintjsKotlinx_serialization_coreSerializationStrategy>)serializer value:(id _Nullable)value __attribute__((swift_name("encodeToJsonElement(serializer:value:)")));
+- (NSString *)encodeToStringSerializer:(id<FingerprintjsKotlinx_serialization_coreSerializationStrategy>)serializer value:(id _Nullable)value __attribute__((swift_name("encodeToString(serializer:value:)")));
+- (FingerprintjsKotlinx_serialization_jsonJsonElement *)parseToJsonElementString:(NSString *)string __attribute__((swift_name("parseToJsonElement(string:)")));
+@property (readonly) FingerprintjsKotlinx_serialization_jsonJsonConfiguration *configuration __attribute__((swift_name("configuration")));
+@property (readonly) FingerprintjsKotlinx_serialization_coreSerializersModule *serializersModule __attribute__((swift_name("serializersModule")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -1155,6 +1264,18 @@ __attribute__((swift_name("KotlinByteArray")))
 - (int8_t)getIndex:(int32_t)index __attribute__((swift_name("get(index:)")));
 - (FingerprintjsKotlinByteIterator *)iterator __attribute__((swift_name("iterator()")));
 - (void)setIndex:(int32_t)index value:(int8_t)value __attribute__((swift_name("set(index:value:)")));
+@property (readonly) int32_t size __attribute__((swift_name("size")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KotlinArray")))
+@interface FingerprintjsKotlinArray<T> : FingerprintjsBase
++ (instancetype)arrayWithSize:(int32_t)size init:(T _Nullable (^)(FingerprintjsInt *))init __attribute__((swift_name("init(size:init:)")));
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (T _Nullable)getIndex:(int32_t)index __attribute__((swift_name("get(index:)")));
+- (id<FingerprintjsKotlinIterator>)iterator __attribute__((swift_name("iterator()")));
+- (void)setIndex:(int32_t)index value:(T _Nullable)value __attribute__((swift_name("set(index:value:)")));
 @property (readonly) int32_t size __attribute__((swift_name("size")));
 @end
 
@@ -1238,12 +1359,6 @@ __attribute__((swift_name("KotlinCancellationException")))
 - (instancetype)initWithMessage:(NSString * _Nullable)message cause:(FingerprintjsKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer));
 @end
 
-__attribute__((swift_name("Kotlinx_coroutines_coreCoroutineScope")))
-@protocol FingerprintjsKotlinx_coroutines_coreCoroutineScope
-@required
-@property (readonly) id<FingerprintjsKotlinCoroutineContext> coroutineContext __attribute__((swift_name("coroutineContext")));
-@end
-
 __attribute__((swift_name("Ktor_ioCloseable")))
 @protocol FingerprintjsKtor_ioCloseable
 @required
@@ -1279,6 +1394,120 @@ __attribute__((swift_name("KotlinPair")))
 - (NSString *)toString __attribute__((swift_name("toString()")));
 @property (readonly) A _Nullable first __attribute__((swift_name("first")));
 @property (readonly) B _Nullable second __attribute__((swift_name("second")));
+@end
+
+
+/**
+ * @note annotations
+ *   kotlin.SinceKotlin(version="1.3")
+*/
+__attribute__((swift_name("KotlinCoroutineContext")))
+@protocol FingerprintjsKotlinCoroutineContext
+@required
+- (id _Nullable)foldInitial:(id _Nullable)initial operation:(id _Nullable (^)(id _Nullable, id<FingerprintjsKotlinCoroutineContextElement>))operation __attribute__((swift_name("fold(initial:operation:)")));
+- (id<FingerprintjsKotlinCoroutineContextElement> _Nullable)getKey:(id<FingerprintjsKotlinCoroutineContextKey>)key __attribute__((swift_name("get(key:)")));
+- (id<FingerprintjsKotlinCoroutineContext>)minusKeyKey:(id<FingerprintjsKotlinCoroutineContextKey>)key __attribute__((swift_name("minusKey(key:)")));
+- (id<FingerprintjsKotlinCoroutineContext>)plusContext:(id<FingerprintjsKotlinCoroutineContext>)context __attribute__((swift_name("plus(context:)")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_coreSerializersModule")))
+@interface FingerprintjsKotlinx_serialization_coreSerializersModule : FingerprintjsBase
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+- (void)dumpToCollector:(id<FingerprintjsKotlinx_serialization_coreSerializersModuleCollector>)collector __attribute__((swift_name("dumpTo(collector:)")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+- (id<FingerprintjsKotlinx_serialization_coreKSerializer> _Nullable)getContextualKClass:(id<FingerprintjsKotlinKClass>)kClass typeArgumentsSerializers:(NSArray<id<FingerprintjsKotlinx_serialization_coreKSerializer>> *)typeArgumentsSerializers __attribute__((swift_name("getContextual(kClass:typeArgumentsSerializers:)")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+- (id<FingerprintjsKotlinx_serialization_coreSerializationStrategy> _Nullable)getPolymorphicBaseClass:(id<FingerprintjsKotlinKClass>)baseClass value:(id)value __attribute__((swift_name("getPolymorphic(baseClass:value:)")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+- (id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy> _Nullable)getPolymorphicBaseClass:(id<FingerprintjsKotlinKClass>)baseClass serializedClassName:(NSString * _Nullable)serializedClassName __attribute__((swift_name("getPolymorphic(baseClass:serializedClassName:)")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_serialization_jsonJson.Default")))
+@interface FingerprintjsKotlinx_serialization_jsonJsonDefault : FingerprintjsKotlinx_serialization_jsonJson
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)default_ __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsKotlinx_serialization_jsonJsonDefault *shared __attribute__((swift_name("shared")));
+@end
+
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.Serializable(with=NormalClass(value=kotlinx/serialization/json/JsonElementSerializer))
+*/
+__attribute__((swift_name("Kotlinx_serialization_jsonJsonElement")))
+@interface FingerprintjsKotlinx_serialization_jsonJsonElement : FingerprintjsBase
+@property (class, readonly, getter=companion) FingerprintjsKotlinx_serialization_jsonJsonElementCompanion *companion __attribute__((swift_name("companion")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_serialization_jsonJsonConfiguration")))
+@interface FingerprintjsKotlinx_serialization_jsonJsonConfiguration : FingerprintjsBase
+- (NSString *)description __attribute__((swift_name("description()")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+@property (readonly) BOOL allowComments __attribute__((swift_name("allowComments")));
+@property (readonly) BOOL allowSpecialFloatingPointValues __attribute__((swift_name("allowSpecialFloatingPointValues")));
+@property (readonly) BOOL allowStructuredMapKeys __attribute__((swift_name("allowStructuredMapKeys")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+@property (readonly) BOOL allowTrailingComma __attribute__((swift_name("allowTrailingComma")));
+@property (readonly) NSString *classDiscriminator __attribute__((swift_name("classDiscriminator")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+@property FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *classDiscriminatorMode __attribute__((swift_name("classDiscriminatorMode")));
+@property (readonly) BOOL coerceInputValues __attribute__((swift_name("coerceInputValues")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+@property (readonly) BOOL decodeEnumsCaseInsensitive __attribute__((swift_name("decodeEnumsCaseInsensitive")));
+@property (readonly) BOOL encodeDefaults __attribute__((swift_name("encodeDefaults")));
+@property (readonly) BOOL explicitNulls __attribute__((swift_name("explicitNulls")));
+@property (readonly) BOOL ignoreUnknownKeys __attribute__((swift_name("ignoreUnknownKeys")));
+@property (readonly) BOOL isLenient __attribute__((swift_name("isLenient")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+@property (readonly) id<FingerprintjsKotlinx_serialization_jsonJsonNamingStrategy> _Nullable namingStrategy __attribute__((swift_name("namingStrategy")));
+@property (readonly) BOOL prettyPrint __attribute__((swift_name("prettyPrint")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+@property (readonly) NSString *prettyPrintIndent __attribute__((swift_name("prettyPrintIndent")));
+@property (readonly) BOOL useAlternativeNames __attribute__((swift_name("useAlternativeNames")));
+@property (readonly) BOOL useArrayPolymorphism __attribute__((swift_name("useArrayPolymorphism")));
 @end
 
 __attribute__((swift_name("KotlinIterator")))
@@ -1437,20 +1666,6 @@ __attribute__((swift_name("Kotlinx_serialization_coreDecoder")))
 @property (readonly) FingerprintjsKotlinx_serialization_coreSerializersModule *serializersModule __attribute__((swift_name("serializersModule")));
 @end
 
-
-/**
- * @note annotations
- *   kotlin.SinceKotlin(version="1.3")
-*/
-__attribute__((swift_name("KotlinCoroutineContext")))
-@protocol FingerprintjsKotlinCoroutineContext
-@required
-- (id _Nullable)foldInitial:(id _Nullable)initial operation:(id _Nullable (^)(id _Nullable, id<FingerprintjsKotlinCoroutineContextElement>))operation __attribute__((swift_name("fold(initial:operation:)")));
-- (id<FingerprintjsKotlinCoroutineContextElement> _Nullable)getKey:(id<FingerprintjsKotlinCoroutineContextKey>)key __attribute__((swift_name("get(key:)")));
-- (id<FingerprintjsKotlinCoroutineContext>)minusKeyKey:(id<FingerprintjsKotlinCoroutineContextKey>)key __attribute__((swift_name("minusKey(key:)")));
-- (id<FingerprintjsKotlinCoroutineContext>)plusContext:(id<FingerprintjsKotlinCoroutineContext>)context __attribute__((swift_name("plus(context:)")));
-@end
-
 __attribute__((swift_name("Ktor_client_coreHttpClientEngine")))
 @protocol FingerprintjsKtor_client_coreHttpClientEngine <FingerprintjsKotlinx_coroutines_coreCoroutineScope, FingerprintjsKtor_ioCloseable>
 @required
@@ -1588,6 +1803,118 @@ __attribute__((swift_name("Ktor_client_coreHttpSendPipeline")))
 @property (readonly) BOOL developmentMode __attribute__((swift_name("developmentMode")));
 @end
 
+__attribute__((swift_name("KotlinCoroutineContextElement")))
+@protocol FingerprintjsKotlinCoroutineContextElement <FingerprintjsKotlinCoroutineContext>
+@required
+@property (readonly) id<FingerprintjsKotlinCoroutineContextKey> key __attribute__((swift_name("key")));
+@end
+
+__attribute__((swift_name("KotlinCoroutineContextKey")))
+@protocol FingerprintjsKotlinCoroutineContextKey
+@required
+@end
+
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+__attribute__((swift_name("Kotlinx_serialization_coreSerializersModuleCollector")))
+@protocol FingerprintjsKotlinx_serialization_coreSerializersModuleCollector
+@required
+- (void)contextualKClass:(id<FingerprintjsKotlinKClass>)kClass provider:(id<FingerprintjsKotlinx_serialization_coreKSerializer> (^)(NSArray<id<FingerprintjsKotlinx_serialization_coreKSerializer>> *))provider __attribute__((swift_name("contextual(kClass:provider:)")));
+- (void)contextualKClass:(id<FingerprintjsKotlinKClass>)kClass serializer:(id<FingerprintjsKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("contextual(kClass:serializer:)")));
+- (void)polymorphicBaseClass:(id<FingerprintjsKotlinKClass>)baseClass actualClass:(id<FingerprintjsKotlinKClass>)actualClass actualSerializer:(id<FingerprintjsKotlinx_serialization_coreKSerializer>)actualSerializer __attribute__((swift_name("polymorphic(baseClass:actualClass:actualSerializer:)")));
+- (void)polymorphicDefaultBaseClass:(id<FingerprintjsKotlinKClass>)baseClass defaultDeserializerProvider:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy> _Nullable (^)(NSString * _Nullable))defaultDeserializerProvider __attribute__((swift_name("polymorphicDefault(baseClass:defaultDeserializerProvider:)"))) __attribute__((deprecated("Deprecated in favor of function with more precise name: polymorphicDefaultDeserializer")));
+- (void)polymorphicDefaultDeserializerBaseClass:(id<FingerprintjsKotlinKClass>)baseClass defaultDeserializerProvider:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy> _Nullable (^)(NSString * _Nullable))defaultDeserializerProvider __attribute__((swift_name("polymorphicDefaultDeserializer(baseClass:defaultDeserializerProvider:)")));
+- (void)polymorphicDefaultSerializerBaseClass:(id<FingerprintjsKotlinKClass>)baseClass defaultSerializerProvider:(id<FingerprintjsKotlinx_serialization_coreSerializationStrategy> _Nullable (^)(id))defaultSerializerProvider __attribute__((swift_name("polymorphicDefaultSerializer(baseClass:defaultSerializerProvider:)")));
+@end
+
+__attribute__((swift_name("KotlinKDeclarationContainer")))
+@protocol FingerprintjsKotlinKDeclarationContainer
+@required
+@end
+
+__attribute__((swift_name("KotlinKAnnotatedElement")))
+@protocol FingerprintjsKotlinKAnnotatedElement
+@required
+@end
+
+
+/**
+ * @note annotations
+ *   kotlin.SinceKotlin(version="1.1")
+*/
+__attribute__((swift_name("KotlinKClassifier")))
+@protocol FingerprintjsKotlinKClassifier
+@required
+@end
+
+__attribute__((swift_name("KotlinKClass")))
+@protocol FingerprintjsKotlinKClass <FingerprintjsKotlinKDeclarationContainer, FingerprintjsKotlinKAnnotatedElement, FingerprintjsKotlinKClassifier>
+@required
+
+/**
+ * @note annotations
+ *   kotlin.SinceKotlin(version="1.1")
+*/
+- (BOOL)isInstanceValue:(id _Nullable)value __attribute__((swift_name("isInstance(value:)")));
+@property (readonly) NSString * _Nullable qualifiedName __attribute__((swift_name("qualifiedName")));
+@property (readonly) NSString * _Nullable simpleName __attribute__((swift_name("simpleName")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_serialization_jsonJsonElement.Companion")))
+@interface FingerprintjsKotlinx_serialization_jsonJsonElementCompanion : FingerprintjsBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsKotlinx_serialization_jsonJsonElementCompanion *shared __attribute__((swift_name("shared")));
+- (id<FingerprintjsKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
+@end
+
+__attribute__((swift_name("KotlinComparable")))
+@protocol FingerprintjsKotlinComparable
+@required
+- (int32_t)compareToOther:(id _Nullable)other __attribute__((swift_name("compareTo(other:)")));
+@end
+
+__attribute__((swift_name("KotlinEnum")))
+@interface FingerprintjsKotlinEnum<E> : FingerprintjsBase <FingerprintjsKotlinComparable>
+- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer));
+@property (class, readonly, getter=companion) FingerprintjsKotlinEnumCompanion *companion __attribute__((swift_name("companion")));
+- (int32_t)compareToOther:(E)other __attribute__((swift_name("compareTo(other:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *name __attribute__((swift_name("name")));
+@property (readonly) int32_t ordinal __attribute__((swift_name("ordinal")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_serialization_jsonClassDiscriminatorMode")))
+@interface FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode : FingerprintjsKotlinEnum<FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *>
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (class, readonly) FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *none __attribute__((swift_name("none")));
+@property (class, readonly) FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *allJsonObjects __attribute__((swift_name("allJsonObjects")));
+@property (class, readonly) FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *polymorphic __attribute__((swift_name("polymorphic")));
++ (FingerprintjsKotlinArray<FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *> *)values __attribute__((swift_name("values()")));
+@property (class, readonly) NSArray<FingerprintjsKotlinx_serialization_jsonClassDiscriminatorMode *> *entries __attribute__((swift_name("entries")));
+@end
+
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.ExperimentalSerializationApi
+*/
+__attribute__((swift_name("Kotlinx_serialization_jsonJsonNamingStrategy")))
+@protocol FingerprintjsKotlinx_serialization_jsonJsonNamingStrategy
+@required
+- (NSString *)serialNameForJsonDescriptor:(id<FingerprintjsKotlinx_serialization_coreSerialDescriptor>)descriptor elementIndex:(int32_t)elementIndex serialName:(NSString *)serialName __attribute__((swift_name("serialNameForJson(descriptor:elementIndex:serialName:)")));
+@end
+
 __attribute__((swift_name("Kotlinx_serialization_coreCompositeEncoder")))
 @protocol FingerprintjsKotlinx_serialization_coreCompositeEncoder
 @required
@@ -1616,34 +1943,6 @@ __attribute__((swift_name("Kotlinx_serialization_coreCompositeEncoder")))
 */
 - (BOOL)shouldEncodeElementDefaultDescriptor:(id<FingerprintjsKotlinx_serialization_coreSerialDescriptor>)descriptor index:(int32_t)index __attribute__((swift_name("shouldEncodeElementDefault(descriptor:index:)")));
 @property (readonly) FingerprintjsKotlinx_serialization_coreSerializersModule *serializersModule __attribute__((swift_name("serializersModule")));
-@end
-
-__attribute__((swift_name("Kotlinx_serialization_coreSerializersModule")))
-@interface FingerprintjsKotlinx_serialization_coreSerializersModule : FingerprintjsBase
-
-/**
- * @note annotations
- *   kotlinx.serialization.ExperimentalSerializationApi
-*/
-- (void)dumpToCollector:(id<FingerprintjsKotlinx_serialization_coreSerializersModuleCollector>)collector __attribute__((swift_name("dumpTo(collector:)")));
-
-/**
- * @note annotations
- *   kotlinx.serialization.ExperimentalSerializationApi
-*/
-- (id<FingerprintjsKotlinx_serialization_coreKSerializer> _Nullable)getContextualKClass:(id<FingerprintjsKotlinKClass>)kClass typeArgumentsSerializers:(NSArray<id<FingerprintjsKotlinx_serialization_coreKSerializer>> *)typeArgumentsSerializers __attribute__((swift_name("getContextual(kClass:typeArgumentsSerializers:)")));
-
-/**
- * @note annotations
- *   kotlinx.serialization.ExperimentalSerializationApi
-*/
-- (id<FingerprintjsKotlinx_serialization_coreSerializationStrategy> _Nullable)getPolymorphicBaseClass:(id<FingerprintjsKotlinKClass>)baseClass value:(id)value __attribute__((swift_name("getPolymorphic(baseClass:value:)")));
-
-/**
- * @note annotations
- *   kotlinx.serialization.ExperimentalSerializationApi
-*/
-- (id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy> _Nullable)getPolymorphicBaseClass:(id<FingerprintjsKotlinKClass>)baseClass serializedClassName:(NSString * _Nullable)serializedClassName __attribute__((swift_name("getPolymorphic(baseClass:serializedClassName:)")));
 @end
 
 __attribute__((swift_name("KotlinAnnotation")))
@@ -1697,17 +1996,6 @@ __attribute__((swift_name("Kotlinx_serialization_coreCompositeDecoder")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("KotlinNothing")))
 @interface FingerprintjsKotlinNothing : FingerprintjsBase
-@end
-
-__attribute__((swift_name("KotlinCoroutineContextElement")))
-@protocol FingerprintjsKotlinCoroutineContextElement <FingerprintjsKotlinCoroutineContext>
-@required
-@property (readonly) id<FingerprintjsKotlinCoroutineContextKey> key __attribute__((swift_name("key")));
-@end
-
-__attribute__((swift_name("KotlinCoroutineContextKey")))
-@protocol FingerprintjsKotlinCoroutineContextKey
-@required
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -2010,53 +2298,13 @@ __attribute__((swift_name("Ktor_client_coreHttpSendPipeline.Phases")))
 @property (readonly) FingerprintjsKtor_utilsPipelinePhase *State __attribute__((swift_name("State")));
 @end
 
-
-/**
- * @note annotations
- *   kotlinx.serialization.ExperimentalSerializationApi
-*/
-__attribute__((swift_name("Kotlinx_serialization_coreSerializersModuleCollector")))
-@protocol FingerprintjsKotlinx_serialization_coreSerializersModuleCollector
-@required
-- (void)contextualKClass:(id<FingerprintjsKotlinKClass>)kClass provider:(id<FingerprintjsKotlinx_serialization_coreKSerializer> (^)(NSArray<id<FingerprintjsKotlinx_serialization_coreKSerializer>> *))provider __attribute__((swift_name("contextual(kClass:provider:)")));
-- (void)contextualKClass:(id<FingerprintjsKotlinKClass>)kClass serializer:(id<FingerprintjsKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("contextual(kClass:serializer:)")));
-- (void)polymorphicBaseClass:(id<FingerprintjsKotlinKClass>)baseClass actualClass:(id<FingerprintjsKotlinKClass>)actualClass actualSerializer:(id<FingerprintjsKotlinx_serialization_coreKSerializer>)actualSerializer __attribute__((swift_name("polymorphic(baseClass:actualClass:actualSerializer:)")));
-- (void)polymorphicDefaultBaseClass:(id<FingerprintjsKotlinKClass>)baseClass defaultDeserializerProvider:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy> _Nullable (^)(NSString * _Nullable))defaultDeserializerProvider __attribute__((swift_name("polymorphicDefault(baseClass:defaultDeserializerProvider:)"))) __attribute__((deprecated("Deprecated in favor of function with more precise name: polymorphicDefaultDeserializer")));
-- (void)polymorphicDefaultDeserializerBaseClass:(id<FingerprintjsKotlinKClass>)baseClass defaultDeserializerProvider:(id<FingerprintjsKotlinx_serialization_coreDeserializationStrategy> _Nullable (^)(NSString * _Nullable))defaultDeserializerProvider __attribute__((swift_name("polymorphicDefaultDeserializer(baseClass:defaultDeserializerProvider:)")));
-- (void)polymorphicDefaultSerializerBaseClass:(id<FingerprintjsKotlinKClass>)baseClass defaultSerializerProvider:(id<FingerprintjsKotlinx_serialization_coreSerializationStrategy> _Nullable (^)(id))defaultSerializerProvider __attribute__((swift_name("polymorphicDefaultSerializer(baseClass:defaultSerializerProvider:)")));
-@end
-
-__attribute__((swift_name("KotlinKDeclarationContainer")))
-@protocol FingerprintjsKotlinKDeclarationContainer
-@required
-@end
-
-__attribute__((swift_name("KotlinKAnnotatedElement")))
-@protocol FingerprintjsKotlinKAnnotatedElement
-@required
-@end
-
-
-/**
- * @note annotations
- *   kotlin.SinceKotlin(version="1.1")
-*/
-__attribute__((swift_name("KotlinKClassifier")))
-@protocol FingerprintjsKotlinKClassifier
-@required
-@end
-
-__attribute__((swift_name("KotlinKClass")))
-@protocol FingerprintjsKotlinKClass <FingerprintjsKotlinKDeclarationContainer, FingerprintjsKotlinKAnnotatedElement, FingerprintjsKotlinKClassifier>
-@required
-
-/**
- * @note annotations
- *   kotlin.SinceKotlin(version="1.1")
-*/
-- (BOOL)isInstanceValue:(id _Nullable)value __attribute__((swift_name("isInstance(value:)")));
-@property (readonly) NSString * _Nullable qualifiedName __attribute__((swift_name("qualifiedName")));
-@property (readonly) NSString * _Nullable simpleName __attribute__((swift_name("simpleName")));
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KotlinEnumCompanion")))
+@interface FingerprintjsKotlinEnumCompanion : FingerprintjsBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) FingerprintjsKotlinEnumCompanion *shared __attribute__((swift_name("shared")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -2171,12 +2419,6 @@ __attribute__((swift_name("Kotlinx_coroutines_coreJob")))
  *   kotlinx.coroutines.ExperimentalCoroutinesApi
 */
 @property (readonly) id<FingerprintjsKotlinx_coroutines_coreJob> _Nullable parent __attribute__((swift_name("parent")));
-@end
-
-__attribute__((swift_name("KotlinComparable")))
-@protocol FingerprintjsKotlinComparable
-@required
-- (int32_t)compareToOther:(id _Nullable)other __attribute__((swift_name("compareTo(other:)")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -2649,18 +2891,6 @@ __attribute__((swift_name("Ktor_httpHttpStatusCode.Companion")))
 @property (readonly) NSArray<FingerprintjsKtor_httpHttpStatusCode *> *allStatusCodes __attribute__((swift_name("allStatusCodes")));
 @end
 
-__attribute__((swift_name("KotlinEnum")))
-@interface FingerprintjsKotlinEnum<E> : FingerprintjsBase <FingerprintjsKotlinComparable>
-- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer));
-@property (class, readonly, getter=companion) FingerprintjsKotlinEnumCompanion *companion __attribute__((swift_name("companion")));
-- (int32_t)compareToOther:(E)other __attribute__((swift_name("compareTo(other:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property (readonly) NSString *name __attribute__((swift_name("name")));
-@property (readonly) int32_t ordinal __attribute__((swift_name("ordinal")));
-@end
-
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Ktor_utilsWeekDay")))
 @interface FingerprintjsKtor_utilsWeekDay : FingerprintjsKotlinEnum<FingerprintjsKtor_utilsWeekDay *>
@@ -2882,15 +3112,6 @@ __attribute__((swift_name("Kotlinx_coroutines_coreSelectInstance")))
 - (void)selectInRegistrationPhaseInternalResult:(id _Nullable)internalResult __attribute__((swift_name("selectInRegistrationPhase(internalResult:)")));
 - (BOOL)trySelectClauseObject:(id)clauseObject result:(id _Nullable)result __attribute__((swift_name("trySelect(clauseObject:result:)")));
 @property (readonly) id<FingerprintjsKotlinCoroutineContext> context __attribute__((swift_name("context")));
-@end
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("KotlinEnumCompanion")))
-@interface FingerprintjsKotlinEnumCompanion : FingerprintjsBase
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-@property (class, readonly, getter=shared) FingerprintjsKotlinEnumCompanion *shared __attribute__((swift_name("shared")));
 @end
 
 __attribute__((objc_subclassing_restricted))
