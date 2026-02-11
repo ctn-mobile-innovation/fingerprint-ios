@@ -154,8 +154,8 @@ __attribute__((swift_name("FingerprintConst")))
 @property NSString *API_KEY __attribute__((swift_name("API_KEY")));
 @property NSString *BASE_URL_FINGERPRINT __attribute__((swift_name("BASE_URL_FINGERPRINT")));
 @property (readonly) NSString *BASE_URL_IP_ADDRESS __attribute__((swift_name("BASE_URL_IP_ADDRESS")));
-@property (readonly) NSString *ENCRYPTION_SECRATE_IV __attribute__((swift_name("ENCRYPTION_SECRATE_IV")));
-@property (readonly) NSString *ENCRYPTION_SECRATE_KEY __attribute__((swift_name("ENCRYPTION_SECRATE_KEY")));
+@property NSString *ENCRYPTION_SECRATE_IV __attribute__((swift_name("ENCRYPTION_SECRATE_IV")));
+@property NSString *ENCRYPTION_SECRATE_KEY __attribute__((swift_name("ENCRYPTION_SECRATE_KEY")));
 @property (readonly) NSString *SDK_VERSION __attribute__((swift_name("SDK_VERSION")));
 @property NSArray<FingerprintjsAppTempInstaller *> * _Nullable allowedPlayStoreIdentifier __attribute__((swift_name("allowedPlayStoreIdentifier")));
 @end
@@ -1219,7 +1219,7 @@ __attribute__((swift_name("AppTempInstaller.SAMSUNG_PLAY_STORE")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("FingerJsConfigKt")))
 @interface FingerprintjsFingerJsConfigKt : FingerprintjsBase
-+ (void)fingerprintConfigurationApiBaseUrl:(NSString *)apiBaseUrl apiKey:(NSString *)apiKey region:(NSString *)region onSuccess:(void (^)(FingerprintjsFingerprintResponseModel *))onSuccess onError:(void (^)(NSString *))onError __attribute__((swift_name("fingerprintConfiguration(apiBaseUrl:apiKey:region:onSuccess:onError:)")));
++ (void)fingerprintConfigurationApiBaseUrl:(NSString *)apiBaseUrl apiKey:(NSString *)apiKey region:(NSString *)region aesKey:(NSString *)aesKey aesIv:(NSString *)aesIv onSuccess:(void (^)(FingerprintjsFingerprintResponseModel *))onSuccess onError:(void (^)(NSString *))onError __attribute__((swift_name("fingerprintConfiguration(apiBaseUrl:apiKey:region:aesKey:aesIv:onSuccess:onError:)")));
 @end
 
 __attribute__((swift_name("Kotlinx_coroutines_coreCoroutineScope")))
